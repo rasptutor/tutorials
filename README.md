@@ -1,2 +1,2 @@
-# tutorials
-tutorials on raspberry pi
+# quality assurance project
+quality assurance personal library
